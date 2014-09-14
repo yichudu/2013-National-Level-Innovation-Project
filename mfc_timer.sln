@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mfc_timer", "mfc_timer\mfc_timer.vcxproj", "{F91E9881-5C7C-4C2D-A7D1-CF29EAF898AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F91E9881-5C7C-4C2D-A7D1-CF29EAF898AE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F91E9881-5C7C-4C2D-A7D1-CF29EAF898AE}.Debug|Win32.Build.0 = Debug|Win32
+		{F91E9881-5C7C-4C2D-A7D1-CF29EAF898AE}.Release|Win32.ActiveCfg = Release|Win32
+		{F91E9881-5C7C-4C2D-A7D1-CF29EAF898AE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
